@@ -45,4 +45,7 @@ public class Encoder {
         this.enryptedString= encoderFunc();
         return this.enryptedString;
     }
+	public Object encocoderFunc() {
+		return null;
+	}
 }
