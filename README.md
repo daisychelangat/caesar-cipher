@@ -46,7 +46,7 @@ When running tests i get an error : Test events not received.
 ## CONTACT DETAILS
 
 For further details contact me on "daisyrop2000@gmail.com"
-## LICENCE
+## LICENCE https://github.com/daisychelangat/caesar-cipher/blob/main/LICENSE
 
 This application is licenced by MIT Open Source Licence
 Copyright (C) 2021  Daisy Chelangat
